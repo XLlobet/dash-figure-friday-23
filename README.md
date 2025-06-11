@@ -4,5 +4,5 @@ Simple and interactive Dash app to explore the steak risk survey dataset for the
 
 ## Screenshot
 
-![Directory structure](https://github.com/XLlobet/ect_demo/blob/main/ect_demo%20tree.png)
+![Directory structure](https://github.com/XLlobet/dash-figure-friday-23/blob/main/Screenshot%20from%202025-06-11%2015-50-25.png)
 
