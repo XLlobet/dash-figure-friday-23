@@ -1,4 +1,4 @@
-# Dash Customizable Style App Plugin Using Dash Hooks
+# Dash - Figure Friday 2025 week 23
 
 Simple and interactive Dash app to explore the steak risk survey dataset for the Figure Friday 2025 - week 23 challenge.
 
